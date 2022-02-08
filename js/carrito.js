@@ -122,3 +122,12 @@ function escribir_precio(precio){
     document.getElementById("idprecio-total").innerHTML = precio;
 }
 
+
+
+
+
+
+
+
+//part down
+
