@@ -122,16 +122,3 @@ function escribir_precio(precio){
     document.getElementById("idprecio-total").innerHTML = precio;
 }
 
-
-
-
-
-
-
-
-<<<<<<< HEAD
-//part up
-=======
-//part down
->>>>>>> parent of d9c6f35 (Part middle 2)
-
