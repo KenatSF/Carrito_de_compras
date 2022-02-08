@@ -124,7 +124,7 @@ function escribir_precio(precio){
 
 
 
-
+// Esta linea es para probrar el comando revert  ERROR!
 
 
 
