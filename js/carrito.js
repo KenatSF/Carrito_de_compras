@@ -129,5 +129,9 @@ function escribir_precio(precio){
 
 
 
+<<<<<<< HEAD
 //part up
+=======
+//part down
+>>>>>>> parent of d9c6f35 (Part middle 2)
 
