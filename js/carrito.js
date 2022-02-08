@@ -122,16 +122,3 @@ function escribir_precio(precio){
     document.getElementById("idprecio-total").innerHTML = precio;
 }
 
-
-<<<<<<< HEAD
-// Saludos
-=======
-
-// Esta linea es para probrar el comando revert  ERROR!
-
-
-
->>>>>>> parent of 2a0dc25 (Menores cambios realizados)
-
-
-
