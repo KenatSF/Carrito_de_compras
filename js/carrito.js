@@ -32,7 +32,7 @@ function obtener_datos(producto) {
 
 
 }
-
+//dropdown-menu
 function agregar_a_contenedor(name, price, image, id) {
     const id_cantidad = id + "-cantidad";
     const cantidad = 1;
@@ -69,6 +69,10 @@ function agregar_a_contenedor(name, price, image, id) {
 
 }
 
+
+
+
+
 function decision_carrito(e) {
     e.preventDefault();
     if (e.target.id === "btn-comprar") {
@@ -96,6 +100,7 @@ function eliminar_producto(e){
 
 }
 
+
 function actualizar_precio(){
     var total = 0;
 
@@ -118,7 +123,15 @@ function escribir_precio(precio){
 }
 
 
+<<<<<<< HEAD
 // Saludos
+=======
+
+// Esta linea es para probrar el comando revert  ERROR!
+
+
+
+>>>>>>> parent of 2a0dc25 (Menores cambios realizados)
 
 
 
