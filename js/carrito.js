@@ -118,7 +118,7 @@ function escribir_precio(precio){
 }
 
 
-
+// Saludos
 
 
 
